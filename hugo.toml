@@ -1,0 +1,3 @@
+baseURL = 'https://x-mark.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
