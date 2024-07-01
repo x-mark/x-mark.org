@@ -8,6 +8,7 @@ paginate = 5
 rssLimit = 10
 theme = "hugo-texify3"
 title = "X-Mark"
+publishDir ="docs"
 
 [author]
 name = "xmark"
