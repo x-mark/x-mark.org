@@ -3,22 +3,22 @@ disqusShortname = ""
 enableGitInfo = true
 enableRobotsTXT = true
 hasCJKLanguage = true
-languageCode = "cn"
+languageCode = "zh-cn"
 paginate = 5
 rssLimit = 10
 theme = "hugo-texify3"
-title = "TeXify3"
+title = "X-Mark"
 
 [author]
-name = "Michael Neuper"
-email = "michael@michaelneuper.com"
+name = "xmark"
+email = "mail@x-mark.org"
 
 [taxonomies]
 tags = "tags"
 categories = "categories"
 
 [params]
-title="TeXify3"
+title="xmark"
 description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
 footnote = """
 Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 

@@ -2,10 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-texify3/</loc>
+    <loc>https://x-mark.org/</loc>
+    <lastmod>2024-07-01T21:07:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/categories/</loc>
+    <loc>https://x-mark.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/tags/</loc>
+    <loc>https://x-mark.org/tags/</loc>
   </url>
 </urlset>
